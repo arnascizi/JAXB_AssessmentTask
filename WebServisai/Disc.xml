@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DiscRepository>
+    <DiscList>
+        <Disc Id="1">
+            <Title>Metallica</Title>
+            <Time>66:38</Time>
+            <SongCount>12</SongCount>
+            <Condition>71</Condition>
+            <Used>false</Used>
+            <BandList>
+                <Band Id="1">
+                    <Name>Metallica</Name>
+                    <Members>4</Members>
+                    <Activity>true</Activity>
+                </Band>
+            </BandList>
+        </Disc>
+        <Disc Id="2">
+            <Title>Iron Man</Title>
+            <Time>59:32</Time>
+            <SongCount>11</SongCount>
+            <Condition>66</Condition>
+            <Used>true</Used>
+            <BandList>
+                <Band Id="2">
+                    <Name>Black sabbath</Name>
+                    <Members>3</Members>
+                    <Activity>false</Activity>
+                </Band>
+            </BandList>
+        </Disc>
+        <Disc Id="3">
+            <Title>Welcome to hell</Title>
+            <Time>48:52</Time>
+            <SongCount>9</SongCount>
+            <Condition>71</Condition>
+            <Used>false</Used>
+            <BandList>
+                <Band Id="3">
+                    <Name>Venom</Name>
+                    <Members>4</Members>
+                    <Activity>false</Activity>
+                </Band>
+            </BandList>
+        </Disc>
+    </DiscList>
+</DiscRepository>
